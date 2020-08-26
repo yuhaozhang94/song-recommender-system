@@ -1,0 +1,69 @@
+----------------------------------------------------------------------------
+libFM
+  Version: 1.4.4
+  Author:  Steffen Rendle, srendle@libfm.org
+  WWW:     http://www.libfm.org/
+This program comes with ABSOLUTELY NO WARRANTY; for details see license.txt.
+This is free software, and you are welcome to redistribute it under certain
+conditions; for details see license.txt.
+----------------------------------------------------------------------------
+Loading train...	
+has x = 0
+has xt = 1
+num_rows=655684	num_values=19518945	num_features=71392	min_target=5	max_target=150
+Loading test... 	
+has x = 0
+has xt = 1
+num_rows=163931	num_values=4881724	num_features=71392	min_target=5	max_target=150
+#relations: 0
+Loading meta data...	
+#Iter=  0	Train=12.1443	Test=12.4489
+#Iter=  1	Train=9.35941	Test=10.3458
+#Iter=  2	Train=9.05523	Test=9.90518
+#Iter=  3	Train=9.03252	Test=9.75734
+#Iter=  4	Train=9.02708	Test=9.68934
+#Iter=  5	Train=9.02464	Test=9.65549
+#Iter=  6	Train=9.0217	Test=9.63449
+#Iter=  7	Train=9.02728	Test=9.62064
+#Iter=  8	Train=9.02506	Test=9.61152
+#Iter=  9	Train=9.01901	Test=9.60625
+#Iter= 10	Train=9.02359	Test=9.60076
+#Iter= 11	Train=9.02061	Test=9.59649
+#Iter= 12	Train=9.02346	Test=9.59368
+#Iter= 13	Train=9.01862	Test=9.59111
+#Iter= 14	Train=9.02364	Test=9.58872
+#Iter= 15	Train=9.01664	Test=9.58646
+#Iter= 16	Train=9.01834	Test=9.58438
+#Iter= 17	Train=9.01575	Test=9.5832
+#Iter= 18	Train=9.01844	Test=9.58171
+#Iter= 19	Train=9.02246	Test=9.57997
+#Iter= 20	Train=9.01426	Test=9.57892
+#Iter= 21	Train=9.01695	Test=9.57829
+#Iter= 22	Train=9.01828	Test=9.57742
+#Iter= 23	Train=9.01533	Test=9.57693
+#Iter= 24	Train=9.02082	Test=9.57615
+#Iter= 25	Train=9.01531	Test=9.57538
+#Iter= 26	Train=9.01603	Test=9.57458
+#Iter= 27	Train=9.01756	Test=9.57413
+#Iter= 28	Train=9.01916	Test=9.57386
+#Iter= 29	Train=9.01873	Test=9.57321
+#Iter= 30	Train=9.0175	Test=9.57276
+#Iter= 31	Train=9.01872	Test=9.57193
+#Iter= 32	Train=9.01667	Test=9.57091
+#Iter= 33	Train=9.01778	Test=9.57056
+#Iter= 34	Train=9.01891	Test=9.57025
+#Iter= 35	Train=9.01381	Test=9.56973
+#Iter= 36	Train=9.01842	Test=9.56924
+#Iter= 37	Train=9.01961	Test=9.56857
+#Iter= 38	Train=9.02047	Test=9.56807
+#Iter= 39	Train=9.01511	Test=9.56769
+#Iter= 40	Train=9.01569	Test=9.56704
+#Iter= 41	Train=9.01964	Test=9.56677
+#Iter= 42	Train=9.01897	Test=9.56599
+#Iter= 43	Train=9.01966	Test=9.56569
+#Iter= 44	Train=9.01956	Test=9.56544
+#Iter= 45	Train=9.01629	Test=9.56512
+#Iter= 46	Train=9.01631	Test=9.56446
+#Iter= 47	Train=9.01591	Test=9.56409
+#Iter= 48	Train=9.01559	Test=9.56373
+#Iter= 49	Train=9.01425	Test=9.5632
