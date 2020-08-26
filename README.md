@@ -1,0 +1,2 @@
+# song-recommender-system
+ Song recommendation was the subject of study in our group project. Using implicit ratings consisting of user ID, song ID and play count, we built a song recommender system with Weighted Matrix Factorization and provided explanations for the recommendation using both latent factors and additional song acoustic features. In dealing with the cold-start problem, we allowed the new user to either specify his/her artist preference or music acoustic preference, and recommended songs based on his/her nearest neighbours in the existing user base.
